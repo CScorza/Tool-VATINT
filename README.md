@@ -86,13 +86,13 @@ Codice IMO
   - MarineTraffic
     - http://www.marinetraffic.com/ais/it/default.aspx?level0=100
       - Strumenti Mobile 
-       - https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=it&gl=US
-       - https://apps.apple.com/it/app/marinetraffic-ship-tracking/id563910324
+        - https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=it&gl=US
+        - https://apps.apple.com/it/app/marinetraffic-ship-tracking/id563910324
   - VesselFinder
     - https://www.vesselfinder.com/it
       - Strumenti Mobile
-       - https://play.google.com/store/apps/details?id=com.astrapaging.vff&hl=it&gl=US
-       - https://apps.apple.com/it/app/vesselfinder-lite/id918080862
+        - https://play.google.com/store/apps/details?id=com.astrapaging.vff&hl=it&gl=US
+        - https://apps.apple.com/it/app/vesselfinder-lite/id918080862
 
 - MARITIME-DATABASE
   - https://www.maritime-database.com
@@ -107,8 +107,9 @@ AEREI, Aereoporti e Droni
 Flightradar24 Flight Tracker
 - http://www.flightradar24.com/
   - Strumenti Mobile
-    - https://play.google.com/store/apps/details?id=com.flightradar24free&hl=it&gl=US
-    - https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851
+     - https://play.google.com/store/apps/details?id=com.flightradar24free&hl=it&gl=US
+     - https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851
+
 Open Air Traffic Data for Research.
 - https://opensky-network.org/network/explorer
 
@@ -128,8 +129,11 @@ DJI
   - Il sistema GEO di DJI delinea dove è sicuro volare, dove il volo può destare preoccupazioni e dove il volo è limitato
     - https://www.dji.com/it/flysafe/geo-map
 
+D-Flight
+ - d-flight persegue lo sviluppo e l’erogazione di servizi per la gestione del traffico aereo a bassa quota di aeromobili a pilotaggio remoto (APR) e di tutte le altre tipologie di aeromobili che rientrano nella categoria unmanned aerial vehicles (UAV) e qualsiasi attività ad essi connesse.
+   - https://www.d-flight.it/new_portal/
 
-- https://www.d-flight.it/new_portal/
+
 - https://www.radarbox24.com/@2.41699,27.25463,z3
 - https://www.radarbox.com/
 - https://global.adsbexchange.com/VirtualRadar/desktop.html
