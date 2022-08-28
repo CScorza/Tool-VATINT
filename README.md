@@ -1,9 +1,15 @@
-# ToolVATINT
+# Tool VATINT
 
 
 <p align="center">
-  <br><b>An Strumenti VATINT - Intelligence sui veicoli e sui trasporti</b>
+  <br><b> Strumenti VATINT - Intelligence sui veicoli e sui trasporti</b>
 </p>
+
+## INDICE
+ - [AUTOMOBILI](https://github.com/CScorza/ToolVATINT/edit/main/README.md#automobili)
+ - [NAVI - TRAFFICO MARITTIMO](https://github.com/CScorza/ToolVATINT/edit/main/README.md#navi-e-pescherecci)
+ - [AEREI, DRONI E TRAFFICO AEREO ](https://github.com/CScorza/ToolVATINT/edit/main/README.md#aerei-droni-e-traffico-aereo)
+ - [TRENI](https://github.com/CScorza/ToolVATINT/edit/main/README.md#treni)
 
 # AUTOMOBILI
 
@@ -53,9 +59,9 @@ Strumenti Mobile
    
 Strumenti Mobile
   - Android e IOS
-   - Immatriculation Scanner (FRANCE) 
-     - https://play.google.com/store/apps/details?id=com.prod.immatriculationscanner&hl=it&gl=US
-     - https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030
+    - Immatriculation Scanner (FRANCE) 
+      - https://play.google.com/store/apps/details?id=com.prod.immatriculationscanner&hl=it&gl=US
+      - https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030
  
 CODICI KEMLER ADR - Accordo europeo relativo ai trasporti internazionali di merci
  - ![1462373360](https://user-images.githubusercontent.com/98583912/187068699-76f9f01b-1251-4eca-9de7-65717c999691.jpg)
@@ -73,7 +79,7 @@ Strumenti Mobile
   - Rotte ADR Kemler
     - https://play.google.com/store/apps/details?id=com.quelinka.kemler&hl=it&gl=US
 
-# Navi e Pescherecci 
+# NAVI E PESCHERECCI
 
 ![IMOnumber7202-750x375](https://user-images.githubusercontent.com/98583912/187069438-e12cea6e-ef33-4654-87f6-f7a9774709ba.jpg)
 
@@ -111,7 +117,7 @@ Il numero IMO è unico, accompagna la nave per tutta la vita operativa, non camb
   - https://globalfishingwatch.org/map
     - Visualizzazione e l'analisi del traffico marittimo e dell'attività umana basata sulle navi in ​​mare  
 
-## AEREI, Aereoporti e Droni
+# AEREI, DRONI E TRAFFICO AEREO
 
 ![15-07-11-TXL-RalfR-N3S_8797](https://user-images.githubusercontent.com/98583912/187075716-61bd839c-7501-44ab-bd9d-48a6092f388a.jpg)
 
@@ -119,6 +125,10 @@ Il numero IMO è unico, accompagna la nave per tutta la vita operativa, non camb
 Il codice di registrazione degli aeromobili (o anche marche di nazionalità e immatricolazione[1]) è una stringa alfanumerica che identifica un aeromobile.
 Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusoliera di poppa proprio davanti alla coda, o più recentemente sulla coda stessa, il codice è spesso chiamato "numero di coda". Negli Stati Uniti il codice è anche chiamato "N-number" (numero N), poiché inizia sempre con la lettera N.
 ``` 
+
+### Traffico Aereo
+![Professional-Aviation_traffico-aereo](https://user-images.githubusercontent.com/98583912/187076676-504b4fa1-5a25-4954-84eb-a22bb69f4e86.jpg)
+
 
 Flightradar24 Flight Tracker
 - http://www.flightradar24.com/
@@ -133,14 +143,18 @@ OpenSky-Network
 Sever Radar Virtuale
  - Traccia le posizioni degli aerei su una mappa
      - https://www.virtualradarserver.co.uk
-  
-ADS BEX CHANGE 
-  - Database sul monitoraggio e dati vari su Aerei e Aereoplani
-    - https://www.adsbexchange.com/
 
 FlightAware
   - Fornisce informazioni e dati avanzati, accurati e fruibili per ogni decisione nel settore dell'aviazione, FlightAware è centrale nell'aviazione
     - https://it.flightaware.com/
+
+AirNAV RadarBoX
+  - Traccia le posizioni degli aerei su una mappa 
+     - https://www.radarbox24.com/@2.41699,27.25463,z3
+
+
+### DROMNI APR/UAV
+![UAV classificazione](https://user-images.githubusercontent.com/98583912/187076512-fa098923-2f70-429c-a0b8-cfac49a0cb8f.jpg)
 
 DJI
   - Il sistema GEO di DJI delinea dove è sicuro volare, dove il volo può destare preoccupazioni e dove il volo è limitato
@@ -150,25 +164,47 @@ D-Flight
   - d-flight persegue lo sviluppo e l’erogazione di servizi per la gestione del traffico aereo a bassa quota di aeromobili a pilotaggio remoto (APR) e di tutte le altre tipologie di aeromobili che rientrano nella categoria unmanned aerial vehicles (UAV) e qualsiasi attività ad essi connesse.
      - https://www.d-flight.it/new_portal/
 
-AirNAV RadarBoX
-  - Traccia le posizioni degli aerei su una mappa 
-     - https://www.radarbox24.com/@2.41699,27.25463,z3
+
+
+ADS BEX CHANGE 
+  - Database sul monitoraggio e dati vari su Aerei e Aereoplani
+    - https://www.adsbexchange.com/
+
+
+### Aerei Militari
 
 ADS-B.NL
-![storage](https://user-images.githubusercontent.com/98583912/187076048-5039482e-1aa1-406c-98f5-8c4d95c3d015.jpg)
+  - ![storage](https://user-images.githubusercontent.com/98583912/187076048-5039482e-1aa1-406c-98f5-8c4d95c3d015.jpg)
 
   - Monitoraggio di aerei militari (I dati sono stati archiviati nel database ADS-B.NL dal 14 ottobre. 2016)
      - https://www.ads-b.nl/
 
 
 
-## TRENI
-- https://www.openrailwaymap.org/
-- http://www.viaggiatreno.it/viaggiatrenonew/index.jsp
+# TRENI
+
+## Traffico Ferroviario 
+
+![Erenhot](https://user-images.githubusercontent.com/98583912/187076842-3fa28856-fb4b-412e-a4c1-e02960f2b46b.jpg)
 
 
 
+Open Rail Way Map
+  - https://www.openrailwaymap.org/
+     - È una mappa online dettagliata dell'infrastruttura ferroviaria mondiale
+
+Viaggia in Treno
+  - http://www.viaggiatreno.it/viaggiatrenonew/index.jsp
+
+IL Portale dei Treni 
+  - https://www.ilportaledeitreni.it/
+    -  Database Ferroviario 
+
+
+
+  
 
 # FONTi
 - https://www.carfax.eu/it/verifica-numero-telaio
--https://nautipedia.it/index.php/Numero_IMO#:~:text=Il%20Numero%20IMO%20(da%20International,provvista%20di%20apparato%20propulsivo%20proprio.
+- https://nautipedia.it/index.php/Numero_IMO#:~:text=Il%20Numero%20IMO%20(da%20International,provvista%20di%20apparato%20propulsivo%20proprio.
+- Wikipedia
