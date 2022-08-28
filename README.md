@@ -21,47 +21,40 @@ VIN - Numero d'Identificazione del Veicolo
 - ![dove-trovo-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068206-35c97b88-37f1-4906-872d-6be4ef8c230c.jpg)
 
 SITI ITALIANI
-- Il Portale del Automobilista
-  - https://www.ilportaledellautomobilista.it/web/portale-automobilista
-- SEVIM - Verifica Targhe
-  - https://www.sevim.it/gratis/targa.asp
-- CARFAX  - Controllo e Storia del veicolo
-  - https://www.carfax.eu/it/controllo-targa-auto
-- Controllo Veicoli Rubati o Smarriti
-  - https://crimnet.dcpc.interno.gov.it/crimnet/ricerca-targhe-telai-rubati-smarriti 
+- [Il Portale del Automobilista](https://www.ilportaledellautomobilista.it/web/portale-automobilista)
+- [SEVIM - Verifica Targhe](https://www.sevim.it/gratis/targa.asp)
+- [CARFAX  - Controllo e Storia del veicolo](https://www.carfax.eu/it/controllo-targa-auto) 
+- [Controllo Veicoli Rubati o Smarriti](https://crimnet.dcpc.interno.gov.it/crimnet/ricerca-targhe-telai-rubati-smarriti)
 
 Strumenti Mobile 
 - Android e IOS
   - ACI Space
-    - https://play.google.com/store/apps/details?id=it.aci.informatica.ACISpace&hl=it&gl=US 
-    - https://apps.apple.com/it/app/aci-space/id1152912166
+    - [ANDROID](https://play.google.com/store/apps/details?id=it.aci.informatica.ACISpace&hl=it&gl=US) 
+    - [IOS](https://apps.apple.com/it/app/aci-space/id1152912166)
   - ITarga 
-    - https://play.google.com/store/apps/details?id=org.ottomobile.iTargaLite&hl=it&gl=US
-    - https://apps.apple.com/it/app/itarga-controllo-targa-bollo/id1222570860
+    - [ANDROID](https://play.google.com/store/apps/details?id=org.ottomobile.iTargaLite&hl=it&gl=US)
+    - [IOS](https://apps.apple.com/it/app/itarga-controllo-targa-bollo/id1222570860)
   - Targa Scan
-    - https://play.google.com/store/apps/details?id=it.duepuntotre.targascanner&hl=it&gl=US 
-    - https://apps.apple.com/it/app/targa-scan/id1382604445
+    - [ANDROID](https://play.google.com/store/apps/details?id=it.duepuntotre.targascanner&hl=it&gl=US)
+    - [IOS](https://apps.apple.com/it/app/targa-scan/id1382604445)
   - Scanner Veicoli
-    - https://play.google.com/store/apps/details?id=com.fdabbieri.controlloveicolirubati&hl=it&gl=US
-    - https://apps.apple.com/it/app/scanner-veicoli/id1247460491 
+    - [ANDROID](https://play.google.com/store/apps/details?id=com.fdabbieri.controlloveicolirubati&hl=it&gl=US)
+    - [IOS](https://apps.apple.com/it/app/scanner-veicoli/id1247460491) 
  
 ### SITI ESTERI
 
-- Wolrd Licens Plates
-   - http://worldlicenseplates.com/
+- [Wolrd Licens Plates](http://worldlicenseplates.com/)
      -  Targhe nel mondo
-- Platesmania    
-   - http://platesmania.com/
+- [Platesmania](http://platesmania.com)
      - Progetto Internet dedicato alle targhe automobilistiche ea tutto ciò che le riguarda: storia, tecnologie di fabbricazione, utilizzo e statistica delle problematiche.
--  Faxvin
-   - https://www.faxvin.com/
+-  [Faxvin](https://www.faxvin.com)
      - Targhe e auto in USA e Canada
    
 Strumenti Mobile
   - Android e IOS
     - Immatriculation Scanner (FRANCE) 
-      - https://play.google.com/store/apps/details?id=com.prod.immatriculationscanner&hl=it&gl=US
-      - https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030
+      - [ANDROID](https://play.google.com/store/apps/details?id=com.prod.immatriculationscanner&hl=it&gl=US)
+      - [IOS](https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030)
  
 CODICI KEMLER ADR - Accordo europeo relativo ai trasporti internazionali di merci
  - ![1462373360](https://user-images.githubusercontent.com/98583912/187068699-76f9f01b-1251-4eca-9de7-65717c999691.jpg)
@@ -74,10 +67,10 @@ Controllo Merci Pericolosi Codici
 Strumenti Mobile
  - Android e IOS
   - ADR Tools
-    - https://play.google.com/store/apps/details?id=com.arekneubauer.adrtool2021.free
-    - https://apps.apple.com/it/app/adr-dangerous-goods/id1475096800
+    - [ANDROID](https://play.google.com/store/apps/details?id=com.arekneubauer.adrtool2021.free)
+    - [IOS](https://apps.apple.com/it/app/adr-dangerous-goods/id1475096800)
   - Rotte ADR Kemler
-    - https://play.google.com/store/apps/details?id=com.quelinka.kemler&hl=it&gl=US
+    - [ANDROID](https://play.google.com/store/apps/details?id=com.quelinka.kemler&hl=it&gl=US)
 
 # NAVI E PESCHERECCI
 
@@ -98,24 +91,20 @@ Il Numero IMO (da International Maritime Organization) è una sequenza di sette 
 Il numero IMO è unico, accompagna la nave per tutta la vita operativa, non cambia al cambiare del proprietario, nome o registrazione e non viene mai riutilizzato per navi di nuova costruzione.
 ```
 ## Siti e Strumenti per la ricerca di Navi e pescherecci
-  - MarineTraffic
-    - http://www.marinetraffic.com/ais/it/default.aspx?level0=100
+  - [MarineTraffic](http://www.marinetraffic.com/ais/it/default.aspx?level0=100)
       - Strumenti Mobile 
-        - https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=it&gl=US
-        - https://apps.apple.com/it/app/marinetraffic-ship-tracking/id563910324
-  - VesselFinder
-    - https://www.vesselfinder.com/it
+        - [ANDROID](https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=it&gl=US)
+        - [IOS](https://apps.apple.com/it/app/marinetraffic-ship-tracking/id563910324)
+  - [VesselFinder](https://www.vesselfinder.com/it)
       - Strumenti Mobile
-        - https://play.google.com/store/apps/details?id=com.astrapaging.vff&hl=it&gl=US
-        - https://apps.apple.com/it/app/vesselfinder-lite/id918080862
+        - [ANDROID](https://play.google.com/store/apps/details?id=com.astrapaging.vff&hl=it&gl=US)
+        - [IOS](https://apps.apple.com/it/app/vesselfinder-lite/id918080862)
 
-- MARITIME-DATABASE
-  - https://www.maritime-database.com
-- INFORMAZIONI MARITTIME
-  - http://www.equasis.org/EquasisWeb/public/HomePage
-- Sicurezza Marittima
-  - https://globalfishingwatch.org/map
-    - Visualizzazione e l'analisi del traffico marittimo e dell'attività umana basata sulle navi in ​​mare  
+- [INFORMAZIONI MARITTIME](http://www.equasis.org/EquasisWeb/public/HomePage)
+- [Sicurezza Marittima](https://globalfishingwatch.org/map)
+    - Visualizzazione e l'analisi del traffico marittimo e dell'attività umana basata sulle navi in mare  
+- [MARITIME-DATABASE](https://www.maritime-database.com)
+
 
 # AEREI, DRONI E TRAFFICO AEREO
 
@@ -133,51 +122,43 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 Flightradar24 Flight Tracker
 - http://www.flightradar24.com/
   - Strumenti Mobile
-     - https://play.google.com/store/apps/details?id=com.flightradar24free&hl=it&gl=US
-     - https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851
+     - [ANDROID](https://play.google.com/store/apps/details?id=com.flightradar24free&hl=it&gl=US)
+     - [IOS](https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851)
 
-OpenSky-Network
+[OpenSky-Network](https://opensky-network.org/network/explorer)
    - Open Air Traffic Data for Research.
-     - https://opensky-network.org/network/explorer
 
-Sever Radar Virtuale
+[Sever Radar Virtuale](https://www.virtualradarserver.co.uk)
  - Traccia le posizioni degli aerei su una mappa
-     - https://www.virtualradarserver.co.uk
-
-FlightAware
+     
+[FlightAware](https://it.flightaware.com)
   - Fornisce informazioni e dati avanzati, accurati e fruibili per ogni decisione nel settore dell'aviazione, FlightAware è centrale nell'aviazione
-    - https://it.flightaware.com/
+    - 
 
-AirNAV RadarBoX
+[AirNAV RadarBoX](https://www.radarbox24.com/@2.41699,27.25463,z3)
   - Traccia le posizioni degli aerei su una mappa 
-     - https://www.radarbox24.com/@2.41699,27.25463,z3
+     - 
 
 
 ### DROMNI APR/UAV
 ![UAV classificazione](https://user-images.githubusercontent.com/98583912/187076512-fa098923-2f70-429c-a0b8-cfac49a0cb8f.jpg)
 
-DJI
+[DJI](https://www.dji.com/it/flysafe/geo-map)
   - Il sistema GEO di DJI delinea dove è sicuro volare, dove il volo può destare preoccupazioni e dove il volo è limitato
-    - https://www.dji.com/it/flysafe/geo-map
 
-D-Flight
+[D-Flight](https://www.d-flight.it/new_portal/)
   - d-flight persegue lo sviluppo e l’erogazione di servizi per la gestione del traffico aereo a bassa quota di aeromobili a pilotaggio remoto (APR) e di tutte le altre tipologie di aeromobili che rientrano nella categoria unmanned aerial vehicles (UAV) e qualsiasi attività ad essi connesse.
-     - https://www.d-flight.it/new_portal/
 
-
-
-ADS BEX CHANGE 
+[ADS BEX CHANGE](https://www.adsbexchange.com/)
   - Database sul monitoraggio e dati vari su Aerei e Aereoplani
-    - https://www.adsbexchange.com/
 
 
 ### Aerei Militari
 
-ADS-B.NL
+[ADS-B.NL](https://www.ads-b.nl/)
   - ![storage](https://user-images.githubusercontent.com/98583912/187076048-5039482e-1aa1-406c-98f5-8c4d95c3d015.jpg)
 
   - Monitoraggio di aerei militari (I dati sono stati archiviati nel database ADS-B.NL dal 14 ottobre. 2016)
-     - https://www.ads-b.nl/
 
 
 
@@ -187,18 +168,28 @@ ADS-B.NL
 
 ![Erenhot](https://user-images.githubusercontent.com/98583912/187076842-3fa28856-fb4b-412e-a4c1-e02960f2b46b.jpg)
 
+### Numerazione dei treni
+![pop_eterno](https://user-images.githubusercontent.com/98583912/187078233-0e90fbfa-4867-492f-92b3-c0e9b4835e59.jpg)
 
-
-Open Rail Way Map
-  - https://www.openrailwaymap.org/
+[Segnalifs](https://www.segnalifs.it/sfi/it/ui/N_numerazioneuic_0_intro.)
+```
+Modo tramite il quale i vari treni nell’Orario di servizio vengono numerati in base al tipo di trasporto nonchè alla specifica funzione, in modo da agevolarne il riconoscimento. 
+A tal scopo risultano definiti in PGOS opportuni intervalli di numeri entro cui si può assegnare A ciascun treno un proprio numero identificativo. 
+I treni ordinari lo mantengono di norma tutti i giorni del periodo di circolazione. 
+I numeri possono essere fino A 5 cifre più un’eventuale lettera sussidiaria (“A”, Ante; “B”, Bis; ecc. per treni straordinari). 
+La stessa numerazione adotta inoltre la convenzione dispari o pari, 
+A seconda del senso predominante del percorso (treni dispari da nord A sud e da ovest A est, viceversa treni pari).
+Per la numerazione dei treni in percorso internazionale o aventi funzioni specifiche esistono accordi di carattere internazionale, del tipo su indicato, 
+ma A parte questi casi i criteri di numerazione possono variare nei diversi paesi. In talune ferrovie si adottano già numeri A 6 cifre.
+```
+[Open Rail Way Map](https://www.openrailwaymap.org/)
      - È una mappa online dettagliata dell'infrastruttura ferroviaria mondiale
 
-Viaggia in Treno
-  - http://www.viaggiatreno.it/viaggiatrenonew/index.jsp
-
-IL Portale dei Treni 
-  - https://www.ilportaledeitreni.it/
-    -  Database Ferroviario 
+[Viaggia in Treno](http://www.viaggiatreno.it/viaggiatrenonew/index.jsp)
+     - Ricerca Treni e Stazioni
+     
+[IL Portale dei Treni](https://www.ilportaledeitreni.it/)
+     -  Database Ferroviario 
 
 
 
