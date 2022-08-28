@@ -67,6 +67,8 @@ Strumenti Mobile
 
 Navi e Pescherecci 
 
+![IMOnumber7202-750x375](https://user-images.githubusercontent.com/98583912/187069438-e12cea6e-ef33-4654-87f6-f7a9774709ba.jpg)
+
 Codice IMO 
   - Il Numero IMO (da International Maritime Organization) è una sequenza di sette numeri assegnata ad ogni nave al momento della costruzione della Lloyd's Register. Viene utilizzato per identificare univocamente ogni tipo di nave superiore alle 100 tonnellate e provvista di apparato propulsivo proprio. Fanno eccezione a questa regola generale le seguenti categorie di natanti, che non hanno un proprio numero IMO:
     - Navi utilizzate esclusivamente per la pesca
@@ -100,15 +102,33 @@ Codice IMO
   - https://globalfishingwatch.org/map
     - Visualizzazione e l'analisi del traffico marittimo e dell'attività umana basata sulle navi in ​​mare  
 
-AEREI e Aereoporti
+AEREI, Aereoporti e Droni
 
-- https://opensky-network.org/network/explorer
-- https://www.adsbexchange.com/
-- https://flight-data.adsbexchange.com/
-- https://radar.freedar.uk/VirtualRadar/desktop.html
+Flightradar24 Flight Tracker
 - http://www.flightradar24.com/
-- https://it.flightaware.com/
-- https://www.dji.com/it/flysafe/geo-map
+  - Strumenti Mobile
+    - https://play.google.com/store/apps/details?id=com.flightradar24free&hl=it&gl=US
+    - https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851
+Open Air Traffic Data for Research.
+- https://opensky-network.org/network/explorer
+
+Sever Radar Virtuale
+ - Traccia le posizioni degli aerei su una mappa
+     - https://www.virtualradarserver.co.uk
+  
+ADS BEX CHANGE 
+  - Database sul monitoraggio e dati vari su Aerei e Aereoplani
+    - https://www.adsbexchange.com/
+
+FlightAware
+ - Fornisce informazioni e dati avanzati, accurati e fruibili per ogni decisione nel settore dell'aviazione, FlightAware è centrale nell'aviazione
+   - https://it.flightaware.com/
+
+DJI
+  - Il sistema GEO di DJI delinea dove è sicuro volare, dove il volo può destare preoccupazioni e dove il volo è limitato
+    - https://www.dji.com/it/flysafe/geo-map
+
+
 - https://www.d-flight.it/new_portal/
 - https://www.radarbox24.com/@2.41699,27.25463,z3
 - https://www.radarbox.com/
