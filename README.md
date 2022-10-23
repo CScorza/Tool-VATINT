@@ -5,6 +5,8 @@
   <br><b> Strumenti VATINT - Intelligence sui veicoli e sui trasporti</b>
 </p>
 
+![intermodalita-e-turismo](https://user-images.githubusercontent.com/98583912/197389770-57d15a84-1208-4fbf-b4dd-2bcd37ab1ec5.jpeg)
+
 ## INDICE
  - [AUTOMOBILI](https://github.com/CScorza/ToolVATINT/edit/main/README.md#automobili)
  - [NAVI - TRAFFICO MARITTIMO](https://github.com/CScorza/ToolVATINT/edit/main/README.md#navi-e-pescherecci)
