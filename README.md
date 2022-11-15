@@ -13,9 +13,11 @@
 # AUTOMOBILI
 
 **Modello Targa Italiana**
-- ![Targa-italiana](https://user-images.githubusercontent.com/98583912/187068096-46a93638-0a6f-4b27-b135-be96397c3885.jpg)
+
+![Targa-italiana](https://user-images.githubusercontent.com/98583912/187068096-46a93638-0a6f-4b27-b135-be96397c3885.jpg)
 
 **VIN - Numero d'Identificazione del Veicolo**
+
 ![decodificare-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068167-8d12d0e4-2845-43ae-8a6c-8e7c079ab15a.jpg)
 
 ![dove-trovo-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068206-35c97b88-37f1-4906-872d-6be4ef8c230c.jpg)
