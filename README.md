@@ -1,4 +1,4 @@
-- ![Titolo](https://user-images.githubusercontent.com/98583912/199348029-4a73da97-bd98-4184-b34b-0ee1cc7d1d9a.gif)
+![Titolo](https://user-images.githubusercontent.com/98583912/199348029-4a73da97-bd98-4184-b34b-0ee1cc7d1d9a.gif)
 
 **INDICE**
  |[**AUTOMOBILI**](https://github.com/CScorza/Tool-VATINT#automobili)|[**NAVI - TRAFFICO MARITTIMO**](https://github.com/CScorza/Tool-VATINT#navi-e-pescherecci)|[**AEREI, DRONI E TRAFFICO AEREO**](https://github.com/CScorza/Tool-VATINT#aerei-droni-e-traffico-aereo)|[**TRENI**](https://github.com/CScorza/Tool-VATINT#treni)|
@@ -8,7 +8,7 @@
  | :---: |
 
 
-- ![intermodalita-e-turismo](https://user-images.githubusercontent.com/98583912/197389770-57d15a84-1208-4fbf-b4dd-2bcd37ab1ec5.jpeg)
+![intermodalita-e-turismo](https://user-images.githubusercontent.com/98583912/197389770-57d15a84-1208-4fbf-b4dd-2bcd37ab1ec5.jpeg)
 
 # AUTOMOBILI
 
@@ -16,8 +16,9 @@
 - ![Targa-italiana](https://user-images.githubusercontent.com/98583912/187068096-46a93638-0a6f-4b27-b135-be96397c3885.jpg)
 
 **VIN - Numero d'Identificazione del Veicolo**
-- ![decodificare-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068167-8d12d0e4-2845-43ae-8a6c-8e7c079ab15a.jpg)
-- ![dove-trovo-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068206-35c97b88-37f1-4906-872d-6be4ef8c230c.jpg)
+![decodificare-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068167-8d12d0e4-2845-43ae-8a6c-8e7c079ab15a.jpg)
+
+![dove-trovo-il-numero-di-telaio](https://user-images.githubusercontent.com/98583912/187068206-35c97b88-37f1-4906-872d-6be4ef8c230c.jpg)
 
 ```
 Strumenti per la ricerca di Targhe - VIN - Modelli Auto
@@ -60,7 +61,7 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 | :--- | :--- |
 |[**cpic-cipc**](https://www.cpic-cipc.ca/sve-rve-eng.htm)|Ricerca Tramite TARGA o VIN|
 
-|**FRANCIA|**PER ANDROID**|**PER IOS****|
+|**FRANCIA**|**PER ANDROID**|**PER IOS****|
 | :--- | :--- | :--- |
 |**Immatriculation Scanner (FRANCE)**|[**ANDROID**](https://play.google.com/store/apps/details?id=com.prod.immatriculationscanner&hl=it&gl=US)|[**IOS**](https://apps.apple.com/fr/app/immatriculation-scanner/id1485152030)|
 
@@ -165,10 +166,12 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 |[**Isitnicked**](https://isitnicked.com/)|Controllo auto rubata - Targa o Telaio|
 
 ### PASSAPORTI NEL MONDO
-- ![Passsporti](https://user-images.githubusercontent.com/98583912/201999969-1415d48d-cea9-4534-ad54-cf6b6c3cb0da.gif)
 
-[**PASSAPORTI NEL MONDO**](https://www.passportindex.org/byColor.php)
-[**PASSAPORTO ITALIANO**](https://conslugano.esteri.it/consolato_lugano/it/la_comunicazione/dal_consolato/2021/11/idea-identity-easy-access-come.html)
+![Passsporti](https://user-images.githubusercontent.com/98583912/201999969-1415d48d-cea9-4534-ad54-cf6b6c3cb0da.gif)
+
+- [**PASSAPORTI NEL MONDO**](https://www.passportindex.org/byColor.php)
+- [**PASSAPORTO ITALIANO**](https://conslugano.esteri.it/consolato_lugano/it/la_comunicazione/dal_consolato/2021/11/idea-identity-easy-access-come.html)
+
 |[**AUSTRALIA WESTERN**](https://online.transport.wa.gov.au/webExternal/driver/?1)|[**AUSTRALIA QUEENSLAND**](https://www.service.transport.qld.gov.au/checkdriverlicencestatus/application/SpecifyCustomer.xhtml?dswid=1860)|[**BELGIO**](https://www.checkdoc.be/CheckDoc/login.do)|[**BULGARIA**](https://www.mvr.bg/en/administrative-services/e-services/validity-verification-of-bulgarian-personal-documents)|[**REPUBBLICA CECA**](https://aplikace.mvcr.cz/neplatne-doklady/default.aspx)|[**ESTONIA**](https://www2.politsei.ee/en/teenused/inquiries/)|[**GRECIA - PASSPORT**](http://www.passport.gov.gr/passports/SearchStolenLostPassEn/)|[**ISLANDA**](https://www.skra.is/english/people/passport-and-id-card/various-information-on-passports/security-of-icelandic-passports/)|[**LETTONIA**](https://latvija.lv/Epakalpojumi/EP22)|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |[**LITUANIA**](https://www.epolicija.lt/indr_paieska/dokumentai_en.php)|[**NORVEGIA**](https://www.politiet.no/globalassets/02-tjenester-admin/pass-og-id-kort/control-guide-for-norwegian-passports.pdf)|[**OLANDA**](https://www.identiteitsdocumenten.nl/en)|[**POLONIA**](https://www.gov.pl/web/gov/paszport-informacje-o-dokumencie)|[**RUSSIA**](https://гувм.мвд.рф/services/passport)|[**SLOVENIA**](https://e-uprava.gov.si/en/public-registers/misappropriated-documents.html)|[**INGHITERRA**](https://www.viewdrivingrecord.service.gov.uk/driving-record/licence-number)|[**UCRAINA**](https://nd.dmsu.gov.ua/english.php)|
@@ -189,7 +192,7 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 
 # NAVI E PESCHERECCI
 
-- ![IMOnumber7202-750x375](https://user-images.githubusercontent.com/98583912/187069438-e12cea6e-ef33-4654-87f6-f7a9774709ba.jpg)
+![IMOnumber7202-750x375](https://user-images.githubusercontent.com/98583912/187069438-e12cea6e-ef33-4654-87f6-f7a9774709ba.jpg)
 
 **Codice IMO**
 ```
@@ -228,7 +231,8 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 ``` 
 
 **Traffico Aereo**
-- ![Professional-Aviation_traffico-aereo](https://user-images.githubusercontent.com/98583912/187076676-504b4fa1-5a25-4954-84eb-a22bb69f4e86.jpg)
+
+![Professional-Aviation_traffico-aereo](https://user-images.githubusercontent.com/98583912/187076676-504b4fa1-5a25-4954-84eb-a22bb69f4e86.jpg)
 
 |**SITI INTERNET**|**ANDROID**|**IOS**|
 | :--- | :--- | :--- |
@@ -244,7 +248,8 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 
 
 **DROMNI APR/UAV**
-- ![UAV classificazione](https://user-images.githubusercontent.com/98583912/187076512-fa098923-2f70-429c-a0b8-cfac49a0cb8f.jpg)
+
+![UAV classificazione](https://user-images.githubusercontent.com/98583912/187076512-fa098923-2f70-429c-a0b8-cfac49a0cb8f.jpg)
 
 |[**DJI**](https://www.dji.com/it/flysafe/geo-map)|Il sistema GEO di DJI delinea dove è sicuro volare, dove il volo può destare preoccupazioni e dove il volo è limitato|
 | :--- | :--- |
@@ -254,7 +259,7 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 
 **Aerei Militari**
 
-- ![storage](https://user-images.githubusercontent.com/98583912/187076048-5039482e-1aa1-406c-98f5-8c4d95c3d015.jpg)
+![storage](https://user-images.githubusercontent.com/98583912/187076048-5039482e-1aa1-406c-98f5-8c4d95c3d015.jpg)
 
 |[**ADS-B.NL**](https://www.ads-b.nl/)|Monitoraggio di aerei militari (I dati archiviati nel database ADS-B.NL dal 14 ottobre. 2016)|
 | :--- | :--- |
@@ -264,10 +269,11 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 
 **Traffico Ferroviario**
 
-- ![Erenhot](https://user-images.githubusercontent.com/98583912/187076842-3fa28856-fb4b-412e-a4c1-e02960f2b46b.jpg)
+![Erenhot](https://user-images.githubusercontent.com/98583912/187076842-3fa28856-fb4b-412e-a4c1-e02960f2b46b.jpg)
 
 **Numerazione dei treni**
-- ![pop_eterno](https://user-images.githubusercontent.com/98583912/187078233-0e90fbfa-4867-492f-92b3-c0e9b4835e59.jpg)
+
+![pop_eterno](https://user-images.githubusercontent.com/98583912/187078233-0e90fbfa-4867-492f-92b3-c0e9b4835e59.jpg)
 
 [Segnalifs](https://www.segnalifs.it/sfi/it/ui/N_numerazioneuic_0_intro.)
 ```
