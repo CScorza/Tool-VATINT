@@ -165,6 +165,17 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 |[**Partial Number Plate**](https://www.partialnumberplate.co.uk/)|Ricerca Tramite TARGA parziale|
 |[**Isitnicked**](https://isitnicked.com/)|Controllo auto rubata - Targa o Telaio|
 
+### Veicoli Rubati
+
+![images](https://user-images.githubusercontent.com/98583912/202004715-fab678a6-cceb-4dc0-9d3b-435cc38286f2.jpg)
+
+|**Strumenti di controllo auto rubate in Europa**|**Strumento di Controllo di Auto Rubate in Italia**|
+| :--- | :--- |
+|[Data Base Europeo delle Auto Rubate](https://digitpol.com/stolen-car-database/)|[Ministero dell'Interno](https://crimnet.dcpc.interno.gov.it/crimnet/ricerca-targhe-telai-rubati-smarriti)|
+|[Controllo Veicoli Rubari EU](https://www.stolencars.eu/en/)|
+
+
+
 ### PASSAPORTI NEL MONDO
 
 ![Passsporti](https://user-images.githubusercontent.com/98583912/201999969-1415d48d-cea9-4534-ad54-cf6b6c3cb0da.gif)
