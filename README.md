@@ -38,20 +38,24 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 |**Scanner Veicoli**|[**ANDROID**](https://play.google.com/store/apps/details?id=com.fdabbieri.controlloveicolirubati&hl=it&gl=US)|[**IOS**](https://apps.apple.com/it/app/scanner-veicoli/id1247460491)|
 
 **STRUMENTI ESTERI GENERICI**
-|[**ALPR - Plate Recognizer**](https://platerecognizer.com/)|Riconoscimento automatico della targa - ALPR ad alta precisione|
+|[**ALPR - Plate Recognizer**](https://platerecognizer.com/)|***Riconoscimento automatico della targa - ALPR ad alta precisione***|
 | :--- | :--- |
-|[**Wolrd Licens Plates**](http://worldlicenseplates.com/)|Targhe nel mondo|
-|[**Platesmania**](http://platesmania.com)|Progetto Internet dedicato alle targhe automobilistiche ea tutto ciò che le riguarda: storia, tecnologie di fabbricazione, utilizzo e statistica delle problematiche|
-|[**Faxvin**](https://www.faxvin.com)|Report Storico di Targhe e auto in USA e Canada |
-|[**AutoCheck**](https://www.autocheck.com/vehiclehistory/search-by-license-plate)|Vehicle History Report by License Plate Number|
-|[**vinwiki**](https://web.vinwiki.com/#/login)|Report Storico VIN|
-|[**VCL**](https://cloud.eyedea.cz/api/VCL/demo)|Riconoscimento marca e modello MMR|
-|[**License Plate Mania**](https://licenseplatemania.com/)|Mania della targa|
+|[**Wolrd Licens Plates**](http://worldlicenseplates.com/)|***Targhe nel mondo***|
+|[**Platesmania**](http://platesmania.com)|***Progetto Internet dedicato alle targhe automobilistiche ea tutto ciò che le riguarda: storia, tecnologie di fabbricazione, utilizzo e statistica delle problematiche***|
+|[**Faxvin**](https://www.faxvin.com)|***Report Storico di Targhe e auto in USA e Canada***|
+|[**AutoCheck**](https://www.autocheck.com/vehiclehistory/search-by-license-plate)|***Vehicle History Report by License Plate Number***|
+|[**vinwiki**](https://web.vinwiki.com/#/login)|***Report Storico VIN***|
+|[**VCL**](https://cloud.eyedea.cz/api/VCL/demo)|***Riconoscimento marca e modello MMR***|
+|[**License Plate Mania**](https://licenseplatemania.com/)|***Mania della targa***|
+|[**HERZ**](https://www.hertz.com/rentacar/receipts/request-receipts.do)|***Trova le ricev***ute utilizzando la combinazione cognome/numero DL***|
+|[**Enterprise**](https://www.enterprise.com/en/reserve/receipts.html?icid=header.reservations.car.rental-_-receipt-_-ENUS.NULL)|***Trova le ricevute utilizzando la combinazione cognome/numero DL***|
+
 
 **RIcerca per STATI**
-- ![Vehicle_registration_plates_in_Europe](https://user-images.githubusercontent.com/98583912/201987752-a9ce08f0-ccff-49de-ab34-6175ae4a1968.png)
 
-|[License Plate Map: Americas](https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/)|[License Plate Map: Europe](https://www.reddit.com/r/MapPorn/comments/d51jr0/car_plates_in_europe/)|[License Plate Map: Asia](https://www.reddit.com/r/MapPorn/comments/d4ys24/license_plates_of_asia_map/)|
+![Vehicle_registration_plates_in_Europe](https://user-images.githubusercontent.com/98583912/201987752-a9ce08f0-ccff-49de-ab34-6175ae4a1968.png)
+
+|[***License Plate Map: Americas***](https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/)|[***License Plate Map: Europe***](https://www.reddit.com/r/MapPorn/comments/d51jr0/car_plates_in_europe/)|[***License Plate Map: Asia***](https://www.reddit.com/r/MapPorn/comments/d4ys24/license_plates_of_asia_map/)|
 | :--- | :--- | :--- |
 |Mappa aerea 2019 delle targhe per stato/paese/provincia|	Mappa aerea 2019 delle targhe europee per paese/provincia|	Mappa aerea 2019 delle targhe in Asia|
 
@@ -182,7 +186,12 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 
 
 
-### PASSAPORTI NEL MONDO
+### PASSAPORTI NEL MONDO e Codici Veicoli
+
+![Code](https://user-images.githubusercontent.com/98583912/202429290-1bd2903a-aecb-4c98-8e01-ea12d6b0cd31.gif)
+
+|[**Vehicle registration codes**](https://autotraveler.ru/en/spravka/vehicle-registration-codes-in-the-world.html#.Y3R6BnbMJPY)|***descrizione/immagini delle targhe e dei regolamenti di visualizzazione della registrazione in base al paese***|
+| :--- | :--- |
 
 ![Passsporti](https://user-images.githubusercontent.com/98583912/201999969-1415d48d-cea9-4534-ad54-cf6b6c3cb0da.gif)
 
@@ -194,12 +203,12 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 |[**LITUANIA**](https://www.epolicija.lt/indr_paieska/dokumentai_en.php)|[**NORVEGIA**](https://www.politiet.no/globalassets/02-tjenester-admin/pass-og-id-kort/control-guide-for-norwegian-passports.pdf)|[**OLANDA**](https://www.identiteitsdocumenten.nl/en)|[**POLONIA**](https://www.gov.pl/web/gov/paszport-informacje-o-dokumencie)|[**RUSSIA**](https://гувм.мвд.рф/services/passport)|[**SLOVENIA**](https://e-uprava.gov.si/en/public-registers/misappropriated-documents.html)|[**INGHITERRA**](https://www.viewdrivingrecord.service.gov.uk/driving-record/licence-number)|[**UCRAINA**](https://nd.dmsu.gov.ua/english.php)|
 
 
-
 **CODICI KEMLER ADR - Accordo europeo relativo ai trasporti internazionali di merci**
-- ![1462373360](https://user-images.githubusercontent.com/98583912/187068699-76f9f01b-1251-4eca-9de7-65717c999691.jpg)
 
-[**Controllo Merci Pericolosi Codici**](https://www.vigilfuoco.it/aspx/page.aspx?IdPage=3653)
-[**NUMERO ONU o NUMERO DI IDENTIFICAZIONE DELLA MATERIA.pdf**](https://www.vigilfuoco.it/sitiVVF/pescara/downloadFile.aspx?s=221&g=12588)
+![1462373360](https://user-images.githubusercontent.com/98583912/187068699-76f9f01b-1251-4eca-9de7-65717c999691.jpg)
+
+|[**Controllo Merci Pericolosi Codici**](https://www.vigilfuoco.it/aspx/page.aspx?IdPage=3653)|[**NUMERO ONU o NUMERO DI IDENTIFICAZIONE DELLA MATERIA.pdf**](https://www.vigilfuoco.it/sitiVVF/pescara/downloadFile.aspx?s=221&g=12588)|
+| :--- | :--- |
 
 **Strumenti Mobile**
 ||**PER ANDROID**|**PER IOS**|
@@ -240,7 +249,7 @@ Il numero IMO è unico, accompagna la nave per tutta la vita operativa, non camb
 
 # AEREI, DRONI E TRAFFICO AEREO
 
-- ![15-07-11-TXL-RalfR-N3S_8797](https://user-images.githubusercontent.com/98583912/187075716-61bd839c-7501-44ab-bd9d-48a6092f388a.jpg)
+![15-07-11-TXL-RalfR-N3S_8797](https://user-images.githubusercontent.com/98583912/187075716-61bd839c-7501-44ab-bd9d-48a6092f388a.jpg)
 
 ```
 Il codice di registrazione degli aeromobili (o anche marche di nazionalità e immatricolazione[1]) è una stringa alfanumerica che identifica un aeromobile.
