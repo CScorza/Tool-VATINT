@@ -51,6 +51,10 @@ Strumenti per la ricerca di Targhe - VIN - Modelli Auto
 **RIcerca per STATI**
 - ![Vehicle_registration_plates_in_Europe](https://user-images.githubusercontent.com/98583912/201987752-a9ce08f0-ccff-49de-ab34-6175ae4a1968.png)
 
+|[License Plate Map: Americas](https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/)|[License Plate Map: Europe](https://www.reddit.com/r/MapPorn/comments/d51jr0/car_plates_in_europe/)|[License Plate Map: Asia](https://www.reddit.com/r/MapPorn/comments/d4ys24/license_plates_of_asia_map/)|
+| :--- | :--- | :--- |
+|Mappa aerea 2019 delle targhe per stato/paese/provincia|	Mappa aerea 2019 delle targhe europee per paese/provincia|	Mappa aerea 2019 delle targhe in Asia|
+
 |**AUSTRIA**||
 | :--- | :--- |
 |[**Zulassung.oesd**](https://zulassung.oesd.at/fahrzeugdaten-online-abfrage/)|Ricerca Tramite TARGA o VIN|
