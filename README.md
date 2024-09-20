@@ -280,6 +280,19 @@ Dato che gli aerei di solito mostrano i loro codici di registrazione sulla fusol
 [**Sever Radar Virtuale**](https://www.virtualradarserver.co.uk)|Traccia le posizioni degli aerei su una mappa|   
 [**FlightAware**](https://it.flightaware.com)|Fornisce informazioni e dati avanzati, accurati e fruibili per ogni decisione nel settore dell'aviazione, FlightAware è centrale nell'aviazione|
 [**AirNAV RadarBoX**](https://www.radarbox24.com/@2.41699,27.25463,z3)|Traccia le posizioni degli aerei su una mappa|
+|[**ADS-B Exchange**](https://lnkd.in/gWzV2sZ6)|Fornisce dati dettagliati sul traffico aereo globale in tempo reale tramite ADS-B, con una politica "open sky" che non filtra i voli.|
+|[**Fly-radar NO**](https://fly-radar.no/)|Un sito di monitoraggio del traffico aereo con visualizzazioni interattive di voli in tempo reale, particolarmente utile per la Norvegia e le aree limitrofe.|
+|[**RadarBox**](https://www.radarbox.com/)|Un tracker globale di voli che fornisce dati in tempo reale su movimenti aerei, con opzioni avanzate per appassionati e professionisti.|
+|[**Plane Finder**](https://planefinder.net/)|Permette di monitorare il traffico aereo in tempo reale con mappe interattive e informazioni dettagliate su voli e aeromobili.|
+|[**Flight Tracker**](https://lnkd.in/gp6wJDUq)|Un sito di tracciamento dei voli che offre una mappa live e informazioni dettagliate su voli specifici in tutto il mondo.|
+|[**The OpenSky Network**](https://lnkd.in/g3wDMbzX)|Un progetto open-source che raccoglie e fornisce dati ADS-B grezzi sui voli, con un forte focus sulla ricerca e l'analisi del traffico aereo.|
+|[**AeroTransport Data Bank**](https://aerotransport.org/)|Una banca dati specializzata che fornisce informazioni dettagliate su flotte di aeromobili, compagnie aeree e industrie aeronautiche.|
+|[**World Aircrafts Database**](https://lnkd.in/gbfdNVnk)|Una risorsa globale che raccoglie informazioni complete su vari modelli di aeromobili e le loro specifiche tecniche.|
+|[**Airfleets**](https://lnkd.in/gtzcrMcv)|Fornisce dati approfonditi sulle flotte di compagnie aeree di tutto il mondo, inclusi dettagli storici degli aeromobili e il loro stato attuale.|
+|[**Airplane Tail Number Tracker**](https://lnkd.in/gvtR7wDb)|Strumento per tracciare e ottenere informazioni dettagliate sugli aeromobili utilizzando i loro numeri di coda (tail numbers).|
+|[**World Airports Database**](https://lnkd.in/gZ3xv3_7)|Database globale che contiene informazioni dettagliate su aeroporti, come posizioni, codici IATA/ICAO, e infrastrutture.|
+|**Airport information**|
+|[**Airportia**](https://www.airportia.com/)|Sito che fornisce informazioni su voli, aeroporti e dati di partenza/arrivo in tempo reale, con un focus globale.|
 
 
 
