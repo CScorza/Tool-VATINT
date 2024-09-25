@@ -339,7 +339,12 @@ ma A parte questi casi i criteri di numerazione possono variare nei diversi paes
 | :--- | :--- |
 |[**Open Rail Way Map**](https://www.openrailwaymap.org/)|È una mappa online dettagliata dell'infrastruttura ferroviaria mondiale|
 |[**Viaggia in Treno**](http://www.viaggiatreno.it/viaggiatrenonew/index.jsp)|Ricerca Treni e Stazioni|     
+|[**Stazioni RFI**](rfi.it/it/stazioni)|Aggiornamento Stazioni|
 |[**IL Portale dei Treni**](https://www.ilportaledeitreni.it/)|Database Ferroviario|
+|[**minitokyo3d**](https://minitokyo3d.com/)|**Traffico di Tokyo live 3D**|
+|[**Zugfinder**](Zugfinder.net)|Mappe dei treni in tempo reale in Italia, Slovenia, Francia, Germania, Austria, Danimarca e BeNeLux|
+|[**Raildar UK**](raildar.co.uk)|Mappa dei treni nel Regno Unito|
+|[**Yandex Trains Maps**](rasp.yandex.ru/map/trains)|Yandex, mappa dei treni|
 
 
 
