@@ -249,6 +249,7 @@ Il numero IMO è unico, accompagna la nave per tutta la vita operativa, non camb
 | :--- | :--- | :--- |
 |[**MarineTraffic**](http://www.marinetraffic.com/ais/it/default.aspx?level0=100)|[**ANDROID**](https://play.google.com/store/apps/details?id=com.marinetraffic.android&hl=it&gl=US)|[**IOS**](https://apps.apple.com/it/app/marinetraffic-ship-tracking/id563910324)|
 |[**VesselFinder**](https://www.vesselfinder.com/it)|[**ANDROID**](https://play.google.com/store/apps/details?id=com.astrapaging.vff&hl=it&gl=US)|[**IOS**](https://apps.apple.com/it/app/vesselfinder-lite/id918080862)|
+|[**MyShipTracking**](https://www.myshiptracking.com/)|[**ANDROID**](https://play.google.com/store/apps/details?id=com.nativity.myshiptracking)|[**IOS**](https://apps.apple.com/us/app/myshiptracking/id1403038386)|
 
 |[**Sea Tracker**](https://seatracker.ru/ais.php)|Traffico marittimo AIS in linea|
 | :--- | :--- |  
